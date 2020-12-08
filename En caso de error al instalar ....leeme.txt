@@ -1,0 +1,10 @@
+Antes de instalar asegurese que tienes instalado el Sql Server management studio(2012 a 2019)
+
+
+despues de instalar el programa no funciona correctamente verifica en la base de datos si el programa genera las tablas en la base de datos que creo automaticamente
+
+ni so estan 
+corre el Script que esta en la carpeta setup files
+
+gracias
+       .
